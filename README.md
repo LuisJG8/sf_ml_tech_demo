@@ -17,7 +17,7 @@ Go to the stage BOATS_STAGE.
 
 Stage location: Horizon Catalog > Catalog > SNOW_ML_DB > SNOW_ML_SCHEMA > STAGES > BOATS_STAGE 
 
-On the top right click on + Files, then click on Browse
+On the top right, click on + Files, then click on Browse
 
 Upload all files in the boats_pdf_extracted_data folder
 
@@ -30,11 +30,13 @@ Go to Notebooks (under the Projects section), on the top right click the v symbo
 
 - Notebook Location = SNOW_ML_DB, SNOW_ML_SCHEMA  
 - Runtime = Run on Container  
-- Runtime Version = Snowflake ML Runtime GPU 1.0  
+- Runtime Version = Snowflake ML Runtime CPU 1.0  
 - Compute Pool = SYSTEM_COMPUTE_POOL_CPU  
 - Query Warehouse = SNOW_ML_PIPELINE  
 
-On the Notebook click on the + sign and upload the following:
+Once the notebook is open, click on the + sign and upload the following:
+<img width="666" height="352" alt="image" src="https://github.com/user-attachments/assets/2965c455-19af-43ca-a988-13c96a7773d5" />
+
 
 **CSV Files:**
 
