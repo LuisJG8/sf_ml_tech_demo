@@ -17,16 +17,14 @@ Go to the stage BOATS_STAGE.
 
 Stage location: Horizon Catalog > Catalog > SNOW_ML_DB > SNOW_ML_SCHEMA > STAGES > BOATS_STAGE 
 
-On the top right of the screen click on + Files
+On the top right click on + Files, then click on Browse
 
 Upload all files in the boats_pdf_extracted_data folder
 
+
 ## Step 4
 
-Go to Snowflake Notebooks, on the top right click of the screen, click the v sign (right besides the + Notebook button)
-
-
-## Step 5
+Go to Notebooks (under the Projects section), on the top right click the v symbol (right besides the + Notebook button)
 
 **Notebook Settings:**
 
@@ -36,8 +34,8 @@ Go to Snowflake Notebooks, on the top right click of the screen, click the v sig
 - Compute Pool = SYSTEM_COMPUTE_POOL_CPU  
 - Query Warehouse = SNOW_ML_PIPELINE  
 
+On the Notebook click on the + sign and upload all the csv files
 
-
-## Step 6
+## Step 5
 
 Happy Coding! 😄
