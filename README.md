@@ -34,7 +34,12 @@ Go to Notebooks (under the Projects section), on the top right click the v symbo
 - Compute Pool = SYSTEM_COMPUTE_POOL_CPU  
 - Query Warehouse = SNOW_ML_PIPELINE  
 
-On the Notebook click on the + sign and upload all the csv files
+On the Notebook click on the + sign and upload the following:
+**CSV Files:**
+boat_data_.csv
+catamaran_extracted_data.csv
+monohull_extracted_data.csv
+power_catamaran_extracted_data.csv
 
 ## Step 5
 
