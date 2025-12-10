@@ -35,6 +35,7 @@ Go to Notebooks (under the Projects section), on the top right click the v symbo
 - Query Warehouse = SNOW_ML_PIPELINE  
 
 On the Notebook click on the + sign and upload the following:
+
 **CSV Files:**
 boat_data_.csv
 catamaran_extracted_data.csv
