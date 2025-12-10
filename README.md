@@ -35,7 +35,6 @@ Go to Notebooks (under the Projects section), on the top right click the v symbo
 - Query Warehouse = SNOW_ML_PIPELINE  
 
 Once the notebook is open, click on the + sign and upload the following:
-<img width="666" height="352" alt="image" src="https://github.com/user-attachments/assets/2965c455-19af-43ca-a988-13c96a7773d5" />
 
 
 **CSV Files:**
