@@ -13,7 +13,7 @@ Go to SQL Workspaces (under the Projects section) and run the setup.sql file (cl
 
 ## Step 3
 
-Go to the stage called BOATS_STAGE. 
+Go to the stage BOATS_STAGE. 
 
 Stage location: Horizon Catalog > Catalog > SNOW_ML_DB > SNOW_ML_SCHEMA > STAGES > BOATS_STAGE 
 
