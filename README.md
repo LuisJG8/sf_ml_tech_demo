@@ -1,9 +1,9 @@
-# Setup Guide
+# Setup Guide ⚙️
 
 
 ## Step 1
 
-Loging to your Snowflake account
+Login to your Snowflake account ❄️
 
 
 ## Step 2
@@ -35,4 +35,4 @@ Go to Snowflake Notebooks, on the top right click of the screen, click the v sig
 
 ## Step 6
 
-Happy Coding!
+Happy Coding! 😄
