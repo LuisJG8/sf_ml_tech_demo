@@ -8,7 +8,7 @@ Login to your Snowflake account ❄️
 
 ## Step 2
 
-Go to SQL Workspaces (under the Projects section) and run the setup.sql file (click on the v next to the ▶️) and then on "Run all"
+Go to SQL Workspaces (under the Projects section) and run the setup.sql file (click on the v next to the ▶️) and then click on "Run all"
 
 
 ## Step 3
