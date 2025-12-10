@@ -13,10 +13,13 @@ Go to SQL Workspaces (under the Projects section) and run the setup.sql file (cl
 
 ## Step 3
 
-Upload all the pdf files from the boats_pdf_extracted_data folder, to the stage called BOATS_STAGE. 
+Go to the stage called BOATS_STAGE. 
 
-Stage location: Horizon Catalog > Catalog > SNOW_ML_DB > SNOW_ML_SCHEMA > STAGES > BOATS_STAGE
+Stage location: Horizon Catalog > Catalog > SNOW_ML_DB > SNOW_ML_SCHEMA > STAGES > BOATS_STAGE 
 
+On the top right of the screen click on + Files
+
+Upload all files in the boats_pdf_extracted_data folder
 
 ## Step 4
 
